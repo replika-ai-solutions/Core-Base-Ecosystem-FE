@@ -111,6 +111,11 @@ Na **Replikaa I Solutions**, transformamos **ideias visionárias** em **soluçõ
 ![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-4.9-blue?logo=typescript) ![Redux](https://img.shields.io/badge/Redux-8.0-purple?logo=redux) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.2-green?logo=tailwindcss) ![API](https://img.shields.io/badge/API-REST-lightgrey?logo=api)
 
 ---
+## 📱 Acompanhe as Imagens e o Showcase da Interface Mobile 👇
+
+Nesta seção, você encontrará uma visão detalhada da interface na versão mobile, incluindo capturas de tela 📸 e um showcase interativo 🖼️ que destacam os principais elementos e funcionalidades do design responsivo.
+
+⚡ **Explore as imagens abaixo** para entender como a experiência foi otimizada para dispositivos móveis. Vamos lá! 🚀
 
 
 
