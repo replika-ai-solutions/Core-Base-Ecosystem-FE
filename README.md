@@ -1,4 +1,4 @@
-# 🌐 Core-Base-Ecosystem-FE
+# 🌐 Prometheus Core-Base-Ecosystem-FE
 
 > **Empowering advanced AI integrations with cutting-edge interfaces**
 
